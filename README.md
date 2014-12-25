@@ -5,7 +5,7 @@ This is a minimal, hosted version of an excellent mint.com scraper (https://gith
 
 I use this to import my account information for local processing in F# without needing to run python on windows.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/ianlevesque/mintapiserver)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 After deployment you can import your account information easily using curl or any other http client like this:
 
