@@ -1,0 +1,6 @@
+{
+  "name": "Mint Scraper API",
+  "description": "A hosted version of https://github.com/mrooney/mintapi",
+  "repository": "https://github.com/ianlevesque/mintapiserver",
+  "keywords": ["python"]
+}
