@@ -6,7 +6,7 @@ MarkupSafe==0.23
 Werkzeug==0.9.6
 gunicorn==19.1.1
 itsdangerous==0.24
--e git+https://github.com/mcronce/mintapi@839fc423d0fb91012d4565c34c1bf4b0de8c8442#egg=mintapi-master
+-e git+https://github.com/mrooney/mintapi#egg=mintapi-master
 pylibmc==1.4.1
 requests==2.5.0
 wsgiref==0.1.2
