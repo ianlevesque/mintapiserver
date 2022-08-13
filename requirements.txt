@@ -7,7 +7,7 @@ Jinja2==2.7.3
 keyring==5.0
 MarkupSafe==0.23
 -e git+https://github.com/zabracks/mintapi.git#egg=mintapi-master
-numpy==1.9.1
+numpy==1.22.0
 pandas==0.15.2
 pylibmc==1.4.1
 python-dateutil==2.4.0
